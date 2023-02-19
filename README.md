@@ -15,3 +15,5 @@ Typical industrial metal songs in the corpus:
 Atypical songs in the corpus: 
 <br>Rammstein: "Diamant", "Stirb nicht vor mir (Don't Die Before I Do)", "Ein Lied", "Ohne Dich" - These songs are mostly ballads or calm, quiet songs not typically associated with industrial metal out of the context of Rammstein.
 <br>Other: "ISN'T EVERYONE" by HEALTH and Nine Inch Nails, "Modern Demon" by Combichrist - These songs are in the Industrial Metal playlist, but consist of more synthesizer parts and less distorted guitars than most industrial metal songs.
+
+I think my plot is interesting because it shows the defining features of popular industrial metal songs. The x axis shows the popularity, the y axis shows the danceability, the size shows the energy, and the color shows the release date.
